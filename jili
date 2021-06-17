@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<HTML>
+<HEAD>
+<TITLE>简历</TITLE>
+<style type="text/css">
+div#d1{
+	background-color:#0473bb;
+	height:2240px;
+}
+div#d2{
+	background:url(http://m.qpic.cn/psc?/V13FiK8j2evzGJ/45NBuzDIW489QBoVep5mcaq7FlWxP3kgyphKOMCGMdp170n9Lzdq1giMIjCiWcL3GDVlj9zQhBXj84J16laHPYW2uSlL5S4YG4d39TIbdXI!/b&bo=fAQfAgAAAAABF1U!&rf=viewer_4) no-repeat;
+	background-size:100% auto;
+	padding-top:15px;color:#fff;
+	background-color:transparent
+}	
+div#d3{
+	width:770px;
+	margin:65px auto 120px;
+	padding-left:60px;
+}	
+div#d4{
+	width:730px;
+	margin:0 auto;
+	font-size:16px;
+	padding-left:100px
+}	
+div#d4 h1{
+	font-size:34px;
+}
+a{
+	color:#fff;
+}
+ul{
+	line-height: 160%;
+}
+img.p1{
+	margin:15px 20px 80px 0px;
+	border:6px solid white;
+	float:left;
+	width:152px;
+	height:200px
+}
+p:nth-of-type(1){
+	padding-top: 13px;
+}
+p:nth-of-type(1),p:nth-of-type(2),p:nth-of-type(3),p:nth-of-type(4),p:nth-of-type(5),p:nth-of-type(6){
+	color:#FFF;
+	font-size:16px;
+	font-family:'宋体';
+	width:510px;
+}
+img.p2,img.p3,img.p4,img.p5{
+	vertical-align:-8px;
+	width:26px;
+	height:26px
+}
+p.p7{
+	clear:both;
+	padding:15px 0 40px;
+	margin:0 auto;
+}
+ul.u1{
+	list-style-type:square;
+}
+ul.u2{
+	list-style-type:disc
+}
+ul.u3{
+	list-style-type:square
+}
+</style>
+
+<body>
+<div id="d1">
+<div id="d2">
+<div id="d3"><img alt="照片" src="个人照片.jpg" class="p1"> 
+<p>易贤书</p>
+ <p>求职目标：兼职文案、网页制作、淘宝美工等</p>
+ <p>
+ <img alt="age" src="age.png" class="p2">４8岁</p>
+       <p> <img src="address.png" class="p3"><a href="https://j.map.baidu.com/ab/EP0"  target="_blank" title="https://j.map.baidu.com/ab/EP0">北京市昌平区北七家镇白庙村</a></p>
+        <p><img src="tel.png" class="p4"><a href="http://tel:15811021189"  target="_blank" title="tel:15811021189">15811021189</p></a>
+        <p><img src="mail.png" class="p5"><a href="mailto:tupopingjing@163.com"  target="_blank" title="mailto:tupopingjing@163.com">tupopingjing@163.com</a></p>  
+</div>
+
+<div id="d4">    <h1>教育背景</h1>     <ul class="u1">        <li>1992年9月-1995年7月就读于武汉纺织工学院（现更名为武汉纺织大学）纺织系。</li>        <li>1998-2004年在通威饲料有限公司接受过渠道管理、市场营销、团队建设、技术服务等培训。</li>        <li>2006-2007年在荆州太平洋保险有限公司授受过寿险代理、寿险营销、团队建设与管理等培训。</li>        <li>2013-2016年曾在北京国通认证培训中心接受过体系培训。</li>    </ul>    <h1>工作经历</h1>     <ul class="u2">         <li>1995年7月-1998年1月在武汉铁路局服装厂从事技师、库管等工作。</li>        <li>1998年-2005年担任湖北监利县通威饲料总经销。</li>        <li>2005年-2007年在太平洋保险有限公司任寿险代理。</li>        <li>2008年-2012年在荆州同济堂大药房任大堂经理。</li>        <li>2013-2016年在北京国通认证培训中心做招生宣传工作。</li>        <li>2016年至今在北京中益华彩做彩票自助机销售工作。</li>    </ul>    <h1>自我评价</h1>    <ul style="list-style-type:circle">        <li>不断总结不断学习的人；</li>        <li>工作认真，踏实负责的人；</li>        <li>敢于创新，不拘泥现有状况的人； </li>         <li>不断突破自我的人。  </li>    </ul>    <h1>能力展示:</h1>     <ul>        <li><a href="https://mp.weixin.qq.com/s/dOhJsx5goezKbc4jIV2vPQ" target="_blank" title="https://mp.weixin.qq.com/s/dOhJsx5goezKbc4jIV2vPQ">自制pdf宣传资料</a></li>        <li><a href="https://mmbiz.qpic.cn/mmbiz_jpg/oUEibQHoVTJBMHrBzTaa7R3rDBN1poc75xyvbeWMcj15YU013LXKun8SIE5618IzSL6809G67CJzOpXhnU1wDzw/0?wx_fmt=jpeg" target="_blank" title="https://mmbiz.qpic.cn/mmbiz_jpg/oUEibQHoVTJBMHrBzTaa7R3rDBN1poc75xyvbeWMcj15YU013LXKun8SIE5618IzSL6809G67CJzOpXhnU1wDzw/0?wx_fmt=jpeg">自制图片宣传资料</a></li>        <li><a href="https://mp.weixin.qq.com/s/GYNoeXRCSz8JBLYmCTBVtw" target="_blank" title="https://mp.weixin.qq.com/s/GYNoeXRCSz8JBLYmCTBVtw">销售信一</a></li>        <li><a href="https://mp.weixin.qq.com/s/Dj-4hSRxJEEAF_Qhz4FZKw" target="_blank" title="https://mp.weixin.qq.com/s/Dj-4hSRxJEEAF_Qhz4FZKw">销售信二</a></li>        <li><a href="https://mp.weixin.qq.com/s/As8B9sbV7MhQTvYZn0wr3g" target="_blank" title="https://mp.weixin.qq.com/s/As8B9sbV7MhQTvYZn0wr3g">微信宣传软文</a></li>        <li><a href="https://mp.weixin.qq.com/s/1SRYWh0PDknMnCg7XbIPwA" target="_blank" title="https://mp.weixin.qq.com/s/1SRYWh0PDknMnCg7XbIPwA">微信自媒体软文</a></li>        <li><a href="https://mp.weixin.qq.com/s/tjj5VNTiHYc92iRvqM1xRg" target="_blank" title="https://mp.weixin.qq.com/s/tjj5VNTiHYc92iRvqM1xRg">华为论坛软文</a></li>        
+	<li><a href="https://mp.weixin.qq.com/s/-GbnsDfHCn2xfjNy51kNiw" target="_blank" title="https://mp.weixin.qq.com/s/-GbnsDfHCn2xfjNy51kNiw">大羿与嫦娥</a></li>
+	<li><a href="http://mp.weixin.qq.com/s?__biz=MzU2MjA3NTkyMA==&amp;mid=2247484129&amp;idx=1&amp;sn=78a8ac209d5bcf10951f9f9d93d0666c&amp;chksm=fc6e429ecb19cb88c7c5c9fce3f90d4f80b4fa3f8fdaaea1ce925ac2260520b88368b595a911&amp;scene=21#wechat_redirect" target="_blank" >底层贯彻“幸福都是奋斗出来的”特写，全国人民都看哭了！</a></li>
+	<li><a href="http://mp.weixin.qq.com/s?__biz=MzU2MjA3NTkyMA==&amp;mid=2247484447&amp;idx=1&amp;sn=eba2cfc23eda26b362f51e57c847d4e1&amp;chksm=fc6e4460cb19cd76275c33f48d899450237e1b7838b317c1f7dfd4c27805ceeec06c98271de4&amp;scene=21#wechat_redirect" target="_blank">一段男欢女爱的故事太感人了</a></li>
+	<li><a href="https://mp.weixin.qq.com/s?__biz=MzU2MjA3NTkyMA==&mid=2247484463&idx=1&sn=56777f44b30fb707d0093994656f3d4c&chksm=fc6e4450cb19cd46ad223d84c2dd0de15d1a04509687c99d648f5ac68f09bfb11d1fd7900b42&scene=21#wechat_redirect" target="_blank">国庆中秋同日齐相贺</a></li>    </ul>    <h1>做好这份工作优势</h1>    <ul class="u3">        <li>这些工种最终目的是销售，而我多年从事销售宣传工作，了解客户的需求；</li>        <li>文字功底也不错，擅长写销售信，平时也经营自己的公众号；</li>        <li>爱好广泛，阅历丰富，从事多个领域，有助于我做好这份工作；</li>        <li>不仅懂得PS作图软件，还懂得html5，css等网络表达语言，能够运用各种方式表达销售述求;</li>        <li>这些工程不仅要有通过销售的视野，还要有各种表现力来挖掘需求，而我具备这方面的素养；</li>        <li>年龄虽大点，但学习能力超强；</li>        <li>住址离公司很近，随时待命；</li>    </ul>    <h1 >联系方式：</h1>    <dl style="width:50%;float:left">        <dt style="text-align:center"><img alt="个人微信号" src="订阅号.png" style="height:293px"></dt><dd style="margin:5px 0 0 0;text-align:center">个人微信号</dd>    </dl>    <dl style="width:50%;float:left">        <dt style="text-align:center"><img src="二维码.png" style="height:293px"></dt><dd style="margin:5px 0 0 0;text-align:center">个人订阅号</dd>    </dl>    <p class="p7"><a href="http://tel:15811021189" target="_blank" title="tel:15811021189"><img src="摇摆.gif"></a></p>
+ </div>
+  </div>
+  </div>
+
+</body>
+</html>
