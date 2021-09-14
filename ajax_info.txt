@@ -1,0 +1,8 @@
+<h1>AJAX</h1>
+<p>AJAX 并不是编程语言。</p>
+<p>AJAX 是一种从网页访问 Web 服务器的技术。</p>
+<p>AJAX 代表异步 JavaScript 和 XML。</p>
+
+
+
+
