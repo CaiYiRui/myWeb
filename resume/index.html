@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -5,26 +6,26 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width,initial-scale=1.0">
 <style type="text/css">
-	html{
-		background-color:#0473bb;
-		height:2240px;
-	}
 	body{
-		background:url(images/head.jpg) center top no-repeat;
-		background-size:100% auto;
-		padding-top:15px;
-		color:#fff;
-		margin:0;
-	}	
+		background-color:#0473bb;
+		color: #fff;
+		font-size: 1rem;
+		width: 770px;
+		margin: 0 auto;
+	}
+	.bgimage{
+		position: absolute;
+		width: 100%;
+		z-index: -1;
+		top: 0;
+		left: 0;
+	}
 	div#d1{
-		width:770px;
-		margin:65px auto 120px;
+		margin:25px auto 80px;
 		padding-left:60px;
 	}	
 	div#d2{
-		width:730px;
 		margin:0 auto;
-		font-size:16px;
 		padding-left:100px
 	}	
 	div#d2 h1{
@@ -101,20 +102,8 @@
 		height: 193px;
 	}
 	@media only screen and (max-width: 768px){
-		html{
-			height: auto;
-		}
-		body{
-			background:none;
-			padding-top:0px;
-			margin:0;
-		}	
-		div#d1,div#d2{
-			max-width: 768px;
-			margin:0 auto 80px;
-		}	
-		div#d1{
-			padding:45px 0 0 45px;
+		.bgimage{
+			width: 1148px;
 		}
 		img.p1{
 			margin:15px 20px 10px 0px;
@@ -122,9 +111,6 @@
 			float:left;
 			width:100px;
 			height:131px
-		}
-		div#d1{
-			background:url(images/head.jpg) bottom center no-repeat;
 		}
 		div#d1 p{
 			margin: 0;
@@ -150,11 +136,13 @@
 	}
 	@media screen and (max-width: 576px) {
 		div#d1,div#d2{
-			font-size: 16px;
+			font-size: 1.2rem;
 		}
 	}
 </style>
 </head>
+<img src="images/head.jpg" alt="" class="bgimage">
+<p></p>
 <div id="d1"><img alt="照片" src="images/个人照片.jpg" class="p1"> 
 	<p>易贤书</p>
  	<p>求职目标：兼职文案、网页制作、美工等</p>
